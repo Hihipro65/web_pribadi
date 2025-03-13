@@ -1,6 +1,6 @@
 # Site settings
 site: cosmicsecurity.my.id
-title: osmicsecurity.my.id
+title: cosmicsecurity.my.id
 keywords: dicky blog
 description: >-
   Portfolio and blog showcasing projects and academic achievements.
@@ -15,16 +15,16 @@ discus-identifier:  ariafatah0711
 
 # Author settings
 author:
-  name: aria fatah
+  name: Dicky Christian
   bio: Hoby Belajar IT <br> web development <br> Networking & IT security <br> DevOps & automation
-  picture: assets/images/profile-128.avif
+  picture: assets/images/images.jpeg
   github: Hihipro # github username
   # twitter:  # twitter username
   # facebook:  # facebook username
   instagram: ariaf.my.id # instagram username
   # youtube: https://www.youtube.com/channel/# youtube username
-  linkedin: ariafatah
-  email: calhounsgt07@gmail.com
+  linkedin: Dicky Christian
+  email: dickychristian875@gmail.com
   discord: https://s.id/dev-universe
 
 app:
